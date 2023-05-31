@@ -1,4 +1,4 @@
-#Hello!
+# Hello!
 
 I am a physicist with teaching experience and a passion for programming. 
 My research and teaching background has allowed me to utilize programming, especially Python, for automating routine tasks, analyzing and processing complex data, visualizing physical phenomena, and modeling physical processes. 
