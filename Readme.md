@@ -15,10 +15,13 @@ You can find more detailed information about me on my website at [website](https
 
 <p align="left">
 <a href="https://sergiokapone.github.io" target="blank">
-  <i class="fab fa-github"></i>
+  <img align="center" src="https://github.com/fluidicon.png" alt="sergiokapone" height="30" width="30" /></a>
 </a>
-<a href="https://github.com/sergiokapone" target="blank"><img align="center" src="https://github.com/fluidicon.png" alt="sergiokapone" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/sergiokapone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergiokapone" height="30" width="40" /></a>
+<a href="https://github.com/sergiokapone" target="blank">
+  <img align="center" src="https://github.com/fluidicon.png" alt="sergiokapone" height="30" width="30" />
+</a>
+<a href="https://www.linkedin.com/in/sergiokapone" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergiokapone" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiokapone&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sergiokapone" height="160" /></p>
