@@ -15,7 +15,7 @@ You can find more detailed information about me on my website at [website](https
 
 <p align="left">
 <a href="https://sergiokapone.github.io" target="blank">
-  <img align="center" src="https://github.com/fluidicon.png" alt="sergiokapone" height="30" width="30" /></a>
+  <i class="fas fa-heart"></i>
 </a>
 <a href="https://github.com/sergiokapone" target="blank">
   <img align="center" src="https://github.com/fluidicon.png" alt="sergiokapone" height="30" width="30" />
