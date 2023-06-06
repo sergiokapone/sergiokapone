@@ -1,4 +1,6 @@
-<h1>About Me</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiokapone&label=Profile%20views&color=0e75b6&style=plastic" alt="sergiokapone_pv" /> </p>
+# About Me
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiokapone&label=Profile%20views&color=0e75b6&style=plastic" alt="sergiokapone_pv" /> </p>
 
 I am a physicist with a doctoral degree in physics of polymers. I have teaching experience and a passion for programming. 
 
@@ -10,7 +12,7 @@ I enjoy working in the areas of data analysis, modeling of physical systems and 
 
 You can find more detailed information about me on my website at [website](https://sergiokapone.github.io/).
 
-<h2>Achivements</h2>
+## GitHub Achivements
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiokapone&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sergiokapone" height="160" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiokapone&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="sergiokapone" height="160"/></p>
