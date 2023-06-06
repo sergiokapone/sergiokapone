@@ -12,10 +12,12 @@ I enjoy working in the areas of data analysis, modeling of physical systems and 
 You can find more detailed information about me on my website at [website](https://sergiokapone.github.io/).
 
 <h3 align="left">Connect with me:</h3>
+<div align="center">
 <p align="left">
 <a href="https://github.com/sergiokapone" target="blank"><img align="center" src="https://github.com/fluidicon.png" alt="sergiokapone" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/sergiokapone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergiokapone" height="30" width="40" /></a>
 </p>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiokapone&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sergiokapone" height="160" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiokapone&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="sergiokapone" height="160"/></p>
