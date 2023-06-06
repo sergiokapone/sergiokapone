@@ -15,4 +15,4 @@ You can find more detailed information about me on my website at [website](https
 ## GitHub Achivements
 
 ![sergiokapone's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiokapone&show_icons=true&theme=radical)
-![sergiokapone's Languages stats]([https://github-readme-stats.vercel.app/api?username=sergiokapone&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs?username=sergiokapone&show_icons=true&theme=dracula&locale=en&layout=compact))
+![sergiokapone's Languages stats]([https://github-readme-stats.vercel.app/api?username=sergiokapone&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs?username=sergiokapone&show_icons=true&theme=dracula&locale=en&layout=compact)
