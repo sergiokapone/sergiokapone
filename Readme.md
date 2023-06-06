@@ -14,7 +14,7 @@ You can find more detailed information about me on my website at [website](https
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://sergiokapone.github.io" target="_blank">
+<a href="https://sergiokapone.github.io" target="blank">
   <i class="fab fa-github"></i>
 </a>
 <a href="https://github.com/sergiokapone" target="blank"><img align="center" src="https://github.com/fluidicon.png" alt="sergiokapone" height="30" width="30" /></a>
