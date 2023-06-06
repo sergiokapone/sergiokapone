@@ -13,10 +13,8 @@ You can find more detailed information about me on my website at [website](https
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-<a href="https://sergiokapone.github.io" target="blank">
-  <i class="fas fa-heart"></i>
-</a>
+[![Heart](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/img/heart-solid.svg)](https://sergiokapone.github.io)
+
 <a href="https://github.com/sergiokapone" target="blank">
   <img align="center" src="https://github.com/fluidicon.png" alt="sergiokapone" height="30" width="30" />
 </a>
