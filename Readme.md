@@ -13,7 +13,7 @@ I enjoy working in the areas of data analysis, modeling of physical systems and 
 You can find more detailed information about me on my website at [website](https://sergiokapone.github.io/).
 
 ## GitHub Achivements
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+[![sergiokapone's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sergiokapone)](https://github.com/sergiokapone/github-readme-stats)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiokapone&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sergiokapone" height="160" /></p>
