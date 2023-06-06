@@ -1,5 +1,4 @@
-<h1>Hello</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiokapone&label=Profile%20views&color=0e75b6&style=plastic" alt="sergiokapone_pv" /> </p>
+<h1>About Me</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiokapone&label=Profile%20views&color=0e75b6&style=plastic" alt="sergiokapone_pv" /> </p>
 
 I am a physicist with a doctoral degree in physics of polymers. I have teaching experience and a passion for programming. 
 
