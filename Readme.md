@@ -14,8 +14,6 @@ You can find more detailed information about me on my website at [website](https
 
 ## GitHub Achivements
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiokapone&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sergiokapone" height="160" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiokapone&show_icons=true&theme=radical" alt="sergiokapone" height="160"/></p>
 
