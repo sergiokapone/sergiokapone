@@ -1,5 +1,4 @@
-# About Me <img align="right" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
-<img align="right" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg"/> 
+# About Me <img align="right" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img align="right" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original.svg"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiokapone&label=Profile%20views&color=0e75b6&style=plastic" alt="sergiokapone_pv" /> </p>
 
