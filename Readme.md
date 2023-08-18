@@ -1,4 +1,4 @@
-# About Me <img align="right" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+-# About Me <img align="right" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+Developer;Physicist)](https://git.io/typing-svg)
 
@@ -14,8 +14,9 @@ I enjoy working in the areas of data analysis, modeling of physical systems and 
 
 You can find more detailed information about me on my website at [website](https://sergiokapone.github.io/).
 
+<!--
 ## GitHub Achivements
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiokapone&show_icons=true&theme=radical&locale=en&hide_progress=true" alt="sergiokapone"height="170" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiokapone&show_icons=true&theme=radical" alt="sergiokapone" height="170"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiokapone&show_icons=true&theme=radical" alt="sergiokapone" height="170"/></p> -->
 
