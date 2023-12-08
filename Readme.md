@@ -14,11 +14,9 @@ I enjoy working in the areas of data analysis, modeling of physical systems and 
 
 You can find more detailed information about me on my website at
 
-My website: [https://sergiokapone.github.io/](https://sergiokapone.github.io/)
-
-GitHub as [@sergiokapone](https://github.com/sergiokapone) (you are here)
-
-LinkedIn: [in/sergiokapone](https://www.linkedin.com/in/sergiokapone/)
+- My website: [https://sergiokapone.github.io/](https://sergiokapone.github.io/)
+- GitHub as [@sergiokapone](https://github.com/sergiokapone) (you are here)
+- LinkedIn: [in/sergiokapone](https://www.linkedin.com/in/sergiokapone/)
 
 
 
