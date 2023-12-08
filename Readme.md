@@ -12,7 +12,12 @@ My goal has been to help students deepen their understanding of physics concepts
 I always strive to improve my skills and explore new technologies. 
 I enjoy working in the areas of data analysis, modeling of physical systems and processes, and software development for scientific and engineering tasks.
 
-You can find more detailed information about me on my website at [website](https://sergiokapone.github.io/).
+You can find more detailed information about me on my website at
+My website: [https://sergiokapone.github.io/](https://sergiokapone.github.io/)
+GitHub as [@sergiokapone](https://github.com/sergiokapone) (you are here)
+LinkedIn: [in/sergiokapone](https://www.linkedin.com/in/sergiokapone/)
+
+
 
 ## GitHub Achivements
 
