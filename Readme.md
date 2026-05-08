@@ -22,7 +22,9 @@ You can find more detailed information about me on my website at
 
 ## GitHub Achivements
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiokapone&show_icons=true&theme=radical&locale=en&hide_progress=true" alt="sergiokapone"height="170" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiokapone&show_icons=true&theme=radical" alt="sergiokapone" height="170"/></p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergiokapone&theme=dark)
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sergiokapone&theme=radical&layout=compact" height="165" style="border-radius: 12px;"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sergiokapone&theme=radical&show_icons=true&hide_border=true" height="165" style="border-radius: 12px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiokapone&theme=radical" height="165" style="border-radius: 12px;"/>
+</div>
 
