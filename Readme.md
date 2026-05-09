@@ -10,12 +10,10 @@ My background in research and education has led me to apply programming to pract
 
 I focus on data analysis, computational modeling, and scientific software development, applying Python to solve real-world engineering and physics problems. I continuously improve my skills and explore new technologies.
 
-You can find more detailed information about me on my website at
+More information about me is available through the links below:
 
 - 🌐 My website: [https://sergiokapone.github.io/](https://sergiokapone.github.io/)
-- 🐙 GitHub as [@sergiokapone](https://github.com/sergiokapone) (you are here)
 - 💼 LinkedIn: [in/sergiokapone](https://www.linkedin.com/in/sergiokapone/)
-
 
 I also built a custom Visual Studio Code theme 👉 [PSM Theme](https://marketplace.visualstudio.com/items?itemName=Sergiy.psm-theme), optimized for Python, LaTeX, and scientific workflows with low visual fatigue and high readability for long engineering sessions.
 
